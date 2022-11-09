@@ -1,0 +1,21 @@
+
+    <input type="text" placeholder="Search user" name="search" id="search" [(ngModel)]="searchUserName" (ngModelChange)="searchUser($event)">
+    <hr>
+<button class="button" (click)="gotoAddUser()">Add User</button>
+<button class="button" (click)="bulkAdd()">Bulk Add Users</button>
+<div style="height:500px;overflow:auto">
+<table>
+  <tr>
+    <th>username</th>
+    <th>gender</th>
+    <th>phone_number</th>
+    <th>email</th>
+  </tr>
+  <tr *ngFor="let item of userList">
+    <td><a (click)="gotoEditUser(item.id)" class="link">{{item.username}}</a></td>
+    <td>{{item.gender}}</td>
+    <td>{{item.phone_number}}</td>
+    <td>{{item.email}}</td>
+  </tr>
+</table>
+</div>
