@@ -1,19 +1,19 @@
 {
   "configVersion": 1,
-  "index": "offline-app/index.html",
+  "index": "/offline-app/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "offline-app/favicon.ico",
-        "offline-app/index.html",
-        "offline-app/main.ec3bd41d21c65953720a.js",
-        "offline-app/polyfills.4dc255d7b01e1abd8023.js",
-        "offline-app/runtime.a66f828dca56eeb90e02.js",
-        "offline-app/scripts.feb2a0410a09def2b80d.js",
-        "offline-app/styles.359ed00690935cc2a0c8.css"
+        "/offline-app/favicon.ico",
+        "/offline-app/index.html",
+        "/offline-app/main.ec3bd41d21c65953720a.js",
+        "/offline-app/polyfills.4dc255d7b01e1abd8023.js",
+        "/offline-app/runtime.a66f828dca56eeb90e02.js",
+        "/offline-app/scripts.feb2a0410a09def2b80d.js",
+        "/offline-app/styles.359ed00690935cc2a0c8.css"
       ],
       "patterns": []
     },
@@ -22,35 +22,35 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "offline-app/assets/icons/icon-128x128.png",
-        "offline-app/assets/icons/icon-144x144.png",
-        "offline-app/assets/icons/icon-152x152.png",
-        "offline-app/assets/icons/icon-192x192.png",
-        "offline-app/assets/icons/icon-384x384.png",
-        "offline-app/assets/icons/icon-512x512.png",
-        "offline-app/assets/icons/icon-72x72.png",
-        "offline-app/assets/icons/icon-96x96.png"
+        "/offline-app/assets/icons/icon-128x128.png",
+        "/offline-app/assets/icons/icon-144x144.png",
+        "/offline-app/assets/icons/icon-152x152.png",
+        "/offline-app/assets/icons/icon-192x192.png",
+        "/offline-app/assets/icons/icon-384x384.png",
+        "/offline-app/assets/icons/icon-512x512.png",
+        "/offline-app/assets/icons/icon-72x72.png",
+        "/offline-app/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "offline-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "offline-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "offline-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "offline-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "offline-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "offline-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "offline-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "offline-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "offline-app/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "offline-app/index.html": "03c5d7620bf2c3b73553e83d6afe35e94ed0a7ca",
-    "offline-app/main.ec3bd41d21c65953720a.js": "0858794405bd661e6934d7df372b7ff1ecb391d8",
-    "offline-app/polyfills.4dc255d7b01e1abd8023.js": "cffd6fc4e2a79c9476d6184103735e85d4d2f57b",
-    "offline-app/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "offline-app/scripts.feb2a0410a09def2b80d.js": "f94fb070b8fa0e9713edf988edf7b14b90f78dbb",
-    "offline-app/styles.359ed00690935cc2a0c8.css": "46dc2fb2568260eda7310ab8c7e8d12c03009ede"
+    "/offline-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/offline-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/offline-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/offline-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/offline-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/offline-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/offline-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/offline-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/offline-app/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/offline-app/index.html": "8c450449f4050f119b662c5b15c5c3c4691fc360",
+    "/offline-app/main.ec3bd41d21c65953720a.js": "0858794405bd661e6934d7df372b7ff1ecb391d8",
+    "/offline-app/polyfills.4dc255d7b01e1abd8023.js": "cffd6fc4e2a79c9476d6184103735e85d4d2f57b",
+    "/offline-app/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "/offline-app/scripts.feb2a0410a09def2b80d.js": "f94fb070b8fa0e9713edf988edf7b14b90f78dbb",
+    "/offline-app/styles.359ed00690935cc2a0c8.css": "46dc2fb2568260eda7310ab8c7e8d12c03009ede"
   },
   "navigationUrls": [
     {
